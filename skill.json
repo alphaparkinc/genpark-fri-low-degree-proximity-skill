@@ -1,0 +1,14 @@
+{
+  "name": "genpark-fri-low-degree-proximity-skill",
+  "version": "1.0.0",
+  "description": "FRI (Fast Reed-Solomon Interactive Oracle Proof of Proximity) folding engine verifying polynomial low-degree bounds for STARKs.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "fri-protocol",
+    "zk-stark",
+    "reed-solomon",
+    "proximity-testing",
+    "cryptography"
+  ]
+}
